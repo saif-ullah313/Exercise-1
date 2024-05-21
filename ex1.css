@@ -1,0 +1,80 @@
+#student_message {
+    border: solid;
+     height: 8vh; 
+     padding: 2vh;background-color: rgb(175, 132, 132);
+
+}
+#average_numbers {
+    border: solid;
+     height: 8vh;
+      padding: 2vh;
+      margin-top: 4vh;
+      background-color: rgb(199, 213, 224);
+}
+#statement1 {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     background-color: rgb(115, 160, 145);
+
+}
+#statement2 {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     background-color: rgb(155, 136, 172);
+
+}
+#statement3 {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     background-color: rgb(204, 183, 157);
+
+}
+#Power {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     background-color: rgb(179, 148, 148);
+
+}
+#Variables {
+    border: solid;
+     margin-top: 4vh;
+     padding: 3vh;
+     background-color: rgb(139, 120, 120);
+
+}
+#Variables h5{
+    color: rgb(85, 12, 12);
+}
+#guess {
+    border: solid;
+    height: 116vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     background-color: rgb(155, 155, 226);
+}
+#URL {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     color: green;
+     background-color: rgb(211, 195, 174);
+
+}
+#URL1 {
+    border: solid;
+    height: 8vh;
+     padding: 2vh;
+     margin-top: 4vh;
+     color: red;
+     background-color: rgb(197, 171, 139);
+
+}
